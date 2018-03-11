@@ -1,0 +1,1 @@
+["lanczos2_kernel", "lanczos3_kernel", "create_1d_filter", "nice_kernel", "box_kernel", "cubic_kernel", "gaussian_kernel", "impulse_kernel", "sinc", "pixman_filter_create_separable_convolution", "lanczos", "linear_kernel", "integral", "general_cubic"]

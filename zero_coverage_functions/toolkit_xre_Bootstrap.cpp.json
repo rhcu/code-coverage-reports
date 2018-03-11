@@ -1,0 +1,1 @@
+["\u0001?XRE_StopLateWriteChecks@BootstrapImpl@mozilla@@UEAAXXZ", "\u0001?XRE_TelemetryAccumulate@BootstrapImpl@mozilla@@UEAAXHI@Z", "_ZN7mozilla13BootstrapImpl23XRE_TelemetryAccumulateEij", "_ZN7mozilla13BootstrapImpl18XRE_GetProcessTypeEv", "\u0001?XRE_GetProcessType@BootstrapImpl@mozilla@@UEAA?AW4GeckoProcessType@@XZ", "_ZN7mozilla13BootstrapImpl23XRE_StopLateWriteChecksEv"]

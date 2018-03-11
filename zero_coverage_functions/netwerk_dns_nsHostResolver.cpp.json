@@ -1,0 +1,1 @@
+["\u0001?QueryInterface@nsHostResolver@@UEAA?AW4nsresult@@AEBUnsID@@PEAPEAX@Z", "\u0001?Invalidate@nsHostRecord@@QEAAXXZ", "_ZN14nsHostResolver14QueryInterfaceERK4nsIDPPv", "\u0001?merge_rrset@@YA?AW4nsresult@@PEAVAddrInfo@net@mozilla@@0@Z", "_ZN12nsHostRecord10InvalidateEv", "_ZL11merge_rrsetPN7mozilla3net8AddrInfoES2_", "\u0001?IsLowPriority@@YA_NG@Z"]

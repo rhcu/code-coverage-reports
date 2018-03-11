@@ -1,0 +1,1 @@
+["PK11_MapPBEMechanismToCryptoMechanism", "PK11_AddMechanismEntry", "rc2_map", "PK11_MechanismToAlgtag", "rc2_unmap", "PK11_GetKeyGen", "pk11_isAllZero", "PK11_IVFromParam", "PK11_FortezzaMapSig"]

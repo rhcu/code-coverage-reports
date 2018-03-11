@@ -1,0 +1,1 @@
+["pfr_glyph_line_to", "pfr_glyph_init", "pfr_glyph_end", "pfr_glyph_load_compound", "pfr_glyph_move_to", "pfr_glyph_done", "pfr_glyph_load_simple", "pfr_glyph_curve_to", "pfr_glyph_start", "pfr_glyph_close_contour", "pfr_glyph_load_rec", "pfr_glyph_load"]

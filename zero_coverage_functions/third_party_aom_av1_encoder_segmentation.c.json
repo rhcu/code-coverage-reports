@@ -1,0 +1,1 @@
+["av1_set_segment_data", "av1_clear_segdata", "cost_segmap", "av1_reset_segment_features", "av1_disable_segmentation", "av1_disable_segfeature", "av1_enable_segmentation", "count_segs", "calc_segtree_probs", "av1_choose_segmap_coding_method", "count_segs_sb"]

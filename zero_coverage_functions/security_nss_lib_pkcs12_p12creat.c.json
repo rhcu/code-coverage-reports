@@ -1,0 +1,1 @@
+["sec_pkcs12_new_pfx", "sec_pkcs12_create_safe_contents", "sec_pkcs12_create_baggage", "sec_pkcs12_create_external_bag", "sec_pkcs12_new_asafe", "SEC_PKCS12DestroyPFX"]

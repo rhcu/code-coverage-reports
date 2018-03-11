@@ -1,0 +1,1 @@
+["callback", "sendMessage", "_updateControlState", "_displayWarning", "_removeEventListener", "_ensurePreferenceAllowed", "_setIntPref", "_setBoolPref", "_setCharPref", "_clearUserPref", "_setStringPref", "handleEvent", "eventsCallback"]

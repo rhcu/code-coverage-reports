@@ -1,0 +1,1 @@
+["av_bprint_append_data", "av_bprintf", "av_bprint_get_buffer", "av_bprint_chars", "av_bprint_clear", "av_vbprintf", "av_bprint_escape", "av_bprint_finalize", "av_bprint_strftime", "av_bprint_alloc", "av_bprint_init", "av_bprint_init_for_buffer", "av_bprint_grow"]

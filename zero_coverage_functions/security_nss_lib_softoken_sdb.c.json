@@ -1,0 +1,1 @@
+["sdb_getFallbackTempDir", "sdb_getTempDir", "sdb_measureAccess", "sdb_buildCache", "sdb_reopenDBLocal", "sdb_updateCache"]

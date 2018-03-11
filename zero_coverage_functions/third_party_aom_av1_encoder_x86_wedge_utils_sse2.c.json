@@ -1,0 +1,1 @@
+["av1_wedge_compute_delta_squares_sse2", "negm_epi16", "av1_wedge_sse_from_residuals_sse2", "av1_wedge_sign_from_residuals_sse2"]

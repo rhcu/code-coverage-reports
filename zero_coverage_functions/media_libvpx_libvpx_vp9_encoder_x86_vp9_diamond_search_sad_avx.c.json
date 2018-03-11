@@ -1,0 +1,1 @@
+["vp9_diamond_search_sad_avx", "mvsad_err_cost", "get_mv_joint", "pack_int_mv", "mv_cost"]

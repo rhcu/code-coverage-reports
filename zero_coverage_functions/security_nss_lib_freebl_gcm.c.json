@@ -1,0 +1,1 @@
+["gcmHash_Final", "gcm_HashMult_sftw", "gcmHash_Reset", "GCM_EncryptUpdate", "gcmHash_Update", "GCM_DecryptUpdate", "gcmHash_Sync", "gcm_HashMult_sftw32", "bmul32", "gcm_zeroX", "gcm_GetTag", "bmul", "gcmHash_InitContext", "get64", "GCM_DestroyContext", "GCM_CreateContext"]

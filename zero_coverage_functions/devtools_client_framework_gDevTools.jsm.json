@@ -1,0 +1,1 @@
+["get _tools", "this.gDevTools", "get _toolboxes", "this.gDevToolsBrowser[name]", "get isWebIDEInitialized", "get _trackedBrowserWindows"]

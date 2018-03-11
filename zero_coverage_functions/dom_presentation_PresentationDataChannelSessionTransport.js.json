@@ -1,0 +1,1 @@
+["get tcpAddress", "onAnswer/<", "notifyDisconnected", "sendBinaryMsg", "_doNotifyData/<", "onIceCandidate/<", "init/this._dataChannel.onopen", "init/this._dataChannel.onerror", "_reportError", "notify", "get tcpPort", "get selfAddress", "get type", "sendBlob", "_setDataChannel/this._dataChannel.onerror"]

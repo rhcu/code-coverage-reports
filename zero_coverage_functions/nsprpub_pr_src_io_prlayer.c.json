@@ -1,0 +1,1 @@
+["PR_GetNameForIdentity", "pl_DefFsync", "pl_DefListen", "pl_DefShutdown", "pl_DefBind", "pl_DefFileInfo", "pl_DefAvailable64", "pl_DefAcceptread", "_PR_DestroyIOLayer", "pl_DefSendfile", "pl_TopClose", "pl_DefSendto", "pl_DefSeek64", "pl_DefRecvfrom", "PR_CreateIOLayer", "pl_DefWritev", "pl_DefSeek", "pl_TopAccept", "pl_DefTransmitfile", "pl_DefFileInfo64"]

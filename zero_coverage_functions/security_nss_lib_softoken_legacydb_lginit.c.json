@@ -1,0 +1,1 @@
+["rdbopen", "db_FinishTransaction", "db_BeginTransaction", "lg_Commit", "db_IsRDB", "rdbmapflags", "lg_getRawDB", "lg_Begin", "lg_Abort", "db_Copy"]

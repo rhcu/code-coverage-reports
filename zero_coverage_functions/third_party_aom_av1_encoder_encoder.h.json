@@ -1,0 +1,1 @@
+["allocated_tokens.isra.8", "frame_is_kf_gf_arf", "cond_cost_list", "get_token_alloc", "enc_is_ref_frame_buf", "is_altref_enabled", "av1_frame_unscaled", "set_ref_ptrs", "allocated_tokens", "av1_resize_unscaled", "is_lossless_requested", "get_chessboard_index", "get_ref_frame_map_idx", "get_ref_frame_buf_idx", "get_ref_frame_buffer"]

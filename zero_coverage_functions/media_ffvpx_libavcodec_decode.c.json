@@ -1,0 +1,1 @@
+["avcodec_decode_subtitle2", "insert_ts", "utf8_check", "avcodec_default_get_format", "reget_buffer_internal", "setup_hwaccel", "find_hwaccel", "convert_sub_to_old_ass_form", "recode_subtitle.isra.1", "get_subtitle_defaults", "ff_reget_buffer", "recode_subtitle"]

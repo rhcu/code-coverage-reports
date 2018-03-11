@@ -1,0 +1,1 @@
+["\u0001?GetObjectForStrict@CPDF_SyntaxParser@@QEAA?AV?$unique_ptr@VCPDF_Object@@U?$default_delete@VCPDF_Object@@@std@@@std@@PEAVCPDF_IndirectObjectHolder@@II@Z", "\u0001?SetEncrypt@CPDF_SyntaxParser@@QEAAXV?$unique_ptr@VCPDF_CryptoHandler@@U?$default_delete@VCPDF_CryptoHandler@@@std@@@std@@@Z", "\u0001?FindTag@CPDF_SyntaxParser@@QEAAHAEBV?$CFX_StringCTemplate@D@@H@Z"]

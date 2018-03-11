@@ -1,0 +1,1 @@
+["av_get_alt_sample_fmt", "av_samples_alloc_array_and_samples", "av_get_packed_sample_fmt", "av_samples_set_silence", "av_samples_copy", "av_get_planar_sample_fmt", "av_samples_alloc", "av_get_sample_fmt", "av_get_sample_fmt_string", "av_get_sample_fmt_name"]

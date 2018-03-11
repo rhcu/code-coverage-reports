@@ -1,0 +1,1 @@
+["avcodec_find_best_pix_fmt2", "avcodec_get_chroma_sub_sample", "avcodec_find_best_pix_fmt_of_2", "av_picture_pad", "is_yuv_planar", "avcodec_get_pix_fmt_loss", "avcodec_find_best_pix_fmt_of_list", "av_picture_crop"]

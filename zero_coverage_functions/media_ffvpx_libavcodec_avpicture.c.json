@@ -1,0 +1,1 @@
+["avpicture_get_size", "avpicture_fill", "av_picture_copy", "avpicture_layout", "avpicture_free", "avpicture_alloc"]

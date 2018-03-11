@@ -1,0 +1,1 @@
+["cff_size_select", "cff_slot_init", "cff_slot_done", "cff_size_request", "cff_make_private_dict", "cff_face_init", "cff_size_init", "cff_face_done", "cff_size_done", "cff_size_get_globals_funcs", "cff_strcpy", "remove_subset_prefix", "remove_style"]

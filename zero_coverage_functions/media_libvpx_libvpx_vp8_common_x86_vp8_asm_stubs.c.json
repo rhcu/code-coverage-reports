@@ -1,0 +1,1 @@
+["vp8_sixtap_predict4x4_ssse3", "vp8_sixtap_predict4x4_mmx", "vp8_sixtap_predict16x16_sse2", "vp8_sixtap_predict8x4_sse2", "vp8_sixtap_predict8x4_ssse3", "vp8_sixtap_predict8x8_sse2"]

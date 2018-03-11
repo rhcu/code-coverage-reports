@@ -1,0 +1,1 @@
+["vpx_int_pro_row_c", "vpx_hadamard_16x16_c", "vpx_minmax_8x8_c", "vpx_avg_4x4_c", "vpx_int_pro_col_c", "vpx_satd_c", "vpx_avg_8x8_c", "vpx_hadamard_8x8_c", "vpx_vector_var_c", "hadamard_col8"]

@@ -1,0 +1,1 @@
+["aom_get16x16var_avx2", "aom_get32x32var_avx2", "aom_sub_pixel_avg_variance32xh_avx2", "aom_sub_pixel_variance32xh_avx2"]

@@ -1,0 +1,1 @@
+["get_win_string", "sfnt_get_name_id", "murmur_hash_3_128", "get_sfnt_table", "fmix32", "fixed2float", "sfnt_is_postscript", "get_apple_string", "sfnt_get_ps_name", "sfnt_get_var_ps_name", "sfnt_table_info", "sfnt_is_alphanumeric", "sfnt_get_charset_id", "sfnt_get_glyph_name"]

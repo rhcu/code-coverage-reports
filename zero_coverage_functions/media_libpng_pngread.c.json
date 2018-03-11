@@ -1,0 +1,1 @@
+["MOZ_PNG_read_info", "MOZ_PNG_start_read_image", "MOZ_PNG_read_end", "MOZ_PNG_read_image", "MOZ_PNG_read_rows", "MOZ_PNG_set_read_status_fn", "MOZ_APNG_read_frame_head", "MOZ_PNG_read_row"]

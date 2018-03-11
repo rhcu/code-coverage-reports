@@ -1,0 +1,1 @@
+["WorkerTarget", "get activeTab", "get window", "get activeConsole", "get isMultiProcess", "get isWorkerTarget", "isKnownTab", "forWorker"]

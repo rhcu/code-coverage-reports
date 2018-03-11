@@ -1,0 +1,1 @@
+["Pass1Encode.isra.1", "generate_psnr_packet", "Pass2Encode", "vp8_set_reference", "reset_temporal_layer_change", "vp8_set_roimap", "Pass1Encode", "calc_plane_error", "vp8_set_internal_size", "vp8_get_preview_raw_frame", "update_alt_ref_frame_stats", "set_segmentation_map", "measure_square_diff_partial", "decide_key_frame", "vp8_set_active_map", "vp8_get_reference"]

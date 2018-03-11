@@ -1,0 +1,1 @@
+["theora_decode_granule_time", "theora_decode_clear", "theora_decode_packetin", "theora_decode_control", "theora_decode_granule_frame", "th_info2theora_info", "theora_decode_init", "theora_decode_YUVout", "th_dec_api_clear", "theora_decode_header"]

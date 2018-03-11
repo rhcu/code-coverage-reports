@@ -1,0 +1,1 @@
+["\u0001?alloc@SkAutoPixmapStorage@@QEAAXAEBUSkImageInfo@@@Z", "\u0001?detachPixelsAsData@SkAutoPixmapStorage@@QEAAPEBVSkData@@XZ", "\u0001?AllocSize@SkAutoPixmapStorage@@SA_KAEBUSkImageInfo@@PEA_K@Z", "_ZN19SkAutoPixmapStorage5allocERK11SkImageInfo", "_ZN19SkAutoPixmapStorage18detachPixelsAsDataEv", "\u0001?tryAlloc@SkAutoPixmapStorage@@QEAA_NAEBUSkImageInfo@@@Z"]

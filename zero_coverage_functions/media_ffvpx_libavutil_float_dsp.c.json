@@ -1,0 +1,1 @@
+["vector_fmac_scalar_c", "avpriv_scalarproduct_float_c", "vector_fmul_c", "vector_dmac_scalar_c", "butterflies_float_c", "vector_fmul_add_c", "vector_fmul_window_c", "vector_fmul_reverse_c", "vector_dmul_scalar_c", "avpriv_float_dsp_alloc", "vector_fmul_scalar_c"]

@@ -1,0 +1,1 @@
+["_ZN12TestNsRefPtr3Foo21VirtualMemberFunctionEiPiRi", "_ZN12TestNsRefPtr18AVoidPtrPtrContextEPPv", "_ZN12TestNsRefPtr18AnFooPtrPtrContextEPPNS_3FooE", "\u0001?VirtualMemberFunction@Foo@TestNsRefPtr@@UEAAXHPEAHAEAH@Z", "_ZNK12TestNsRefPtr3Foo26VirtualConstMemberFunctionEiPiRi", "\u0001?VirtualConstMemberFunction@Foo@TestNsRefPtr@@UEBAXHPEAHAEAH@Z"]

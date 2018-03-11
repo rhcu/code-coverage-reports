@@ -1,0 +1,1 @@
+["v256_dup_8", "v256_madd_us8", "v256_from_v64", "v256_low_v128", "v256_pack_s16_u8", "v256_dup_16", "v256_min_s16", "v256_cmpeq_16", "v256_zero", "v256_sub_16", "v256_high_v128", "v256_andn", "v256_cmplt_s16", "v256_add_16", "v256_max_s16", "v256_from_v128"]

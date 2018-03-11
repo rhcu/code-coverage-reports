@@ -1,0 +1,1 @@
+["MOZ_Z_gztell64", "MOZ_Z_gzopen", "MOZ_Z_gztell", "MOZ_Z_gzopen_w", "MOZ_Z_gzseek64", "MOZ_Z_gzoffset64", "MOZ_Z_gzbuffer", "MOZ_Z_gzerror", "MOZ_Z_gzseek", "MOZ_Z_gzrewind", "MOZ_Z_gzoffset", "MOZ_Z_gzeof", "MOZ_Z_gzopen64", "MOZ_Z_gzclearerr"]

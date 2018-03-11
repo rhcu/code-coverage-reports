@@ -1,0 +1,1 @@
+["deflateEnd", "deflate_stored", "deflate_fast", "lm_init", "deflate_slow", "deflateParams", "deflate", "deflateBound", "deflateSetDictionary", "deflateSetHeader", "deflateReset", "longest_match", "fill_window", "deflateTune", "putShortMSB", "deflateInit_", "deflate_rle", "read_buf", "deflatePrime", "check_match", "deflateInit2_", "flush_pending", "deflate_huff", "deflateCopy"]

@@ -1,0 +1,1 @@
+["pixel_clamp_avx2", "cal_rounding_16_avx2", "cal_highbd_rounding_4_sse2", "cal_highbd_rounding_16_avx2", "cal_highbd_rounding_32xn_avx2", "av1_highbd_convolve_rounding_avx2", "av1_convolve_rounding_avx2", "pixel_clamp_sse2", "cal_rounding_4_sse2", "cal_highbd_rounding_8_avx2", "cal_rounding_8_avx2", "cal_rounding_32xn_avx2"]

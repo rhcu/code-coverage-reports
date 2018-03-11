@@ -1,0 +1,1 @@
+["srtcp_packet_get_ekt_roc", "aes_decrypt_with_raw_key", "srtcp_packet_get_emk_location", "srtcp_ekt_trailer", "srtcp_packet_get_ekt_spi", "srtp_stream_init_from_ekt"]

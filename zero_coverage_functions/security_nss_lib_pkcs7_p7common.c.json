@@ -1,0 +1,1 @@
+["SEC_PKCS7DecryptContents", "SEC_PKCS7GetEncryptionAlgorithm", "SEC_PKCS7CopyContentInfo", "SEC_PKCS7GetCertificateList", "SEC_PKCS7GetKeyLength", "SEC_PKCS7GetContent", "SEC_PKCS7EncryptContents", "SEC_PKCS7SetContent"]

@@ -1,0 +1,1 @@
+["pfr_bitwriter_decode_rle1", "pfr_bitwriter_decode_rle2", "pfr_slot_load_bitmap", "pfr_bitwriter_decode_bytes", "pfr_load_bitmap_bits", "pfr_bitwriter_init", "pfr_lookup_bitmap_data", "pfr_load_bitmap_metrics"]

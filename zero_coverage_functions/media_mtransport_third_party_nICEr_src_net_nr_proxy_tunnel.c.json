@@ -1,0 +1,1 @@
+["nr_socket_proxy_tunnel_resolved_cb", "nr_socket_wrapper_factory_proxy_tunnel_wrap", "nr_socket_proxy_tunnel_getaddr", "nr_socket_proxy_tunnel_getfd", "nr_socket_proxy_tunnel_close", "send_http_connect", "nr_socket_proxy_tunnel_write"]

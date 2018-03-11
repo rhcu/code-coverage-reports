@@ -1,0 +1,1 @@
+["_cairo_paginated_surface_get_target", "_cairo_paginated_surface_create_image_surface", "_cairo_paginated_surface_paint", "_cairo_paginated_surface_acquire_source_image", "_cairo_paginated_surface_copy_page", "_cairo_paginated_surface_mask", "_cairo_paginated_surface_release_source_image", "_paint_fallback_image", "_cairo_paginated_surface_snapshot"]

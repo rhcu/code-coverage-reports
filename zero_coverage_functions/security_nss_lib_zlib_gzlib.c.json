@@ -1,0 +1,1 @@
+["gzopen", "gzrewind", "gzopen64", "gzdopen", "gzoffset", "gzeof", "gzclearerr", "gz_error", "gzbuffer", "gztell", "gztell64", "gz_reset", "gzseek", "gzseek64", "gz_open", "gzerror", "gzoffset64"]

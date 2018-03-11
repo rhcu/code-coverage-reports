@@ -1,0 +1,1 @@
+["PR_DeleteSemaphore", "PR_OpenSemaphore", "PR_WaitSemaphore", "PR_PostSemaphore", "PR_CloseSemaphore"]

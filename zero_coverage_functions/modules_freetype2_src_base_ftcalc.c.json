@@ -1,0 +1,1 @@
+["FT_Hypot", "FT_Matrix_Invert", "FT_CeilFix", "FT_Matrix_Multiply_Scaled", "FT_Matrix_Multiply", "FT_MulDiv_No_Round", "ft_corner_orientation", "FT_RoundFix", "FT_MSB", "FT_FloorFix", "FT_Vector_NormLen", "ft_corner_is_flat", "FT_Vector_Transform_Scaled"]

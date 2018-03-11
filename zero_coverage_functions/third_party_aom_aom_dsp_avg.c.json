@@ -1,0 +1,1 @@
+["aom_hadamard_8x8_c", "aom_int_pro_row_c", "aom_int_pro_col_c", "hadamard_col8", "aom_minmax_8x8_c", "aom_highbd_minmax_8x8_c", "aom_satd_c", "aom_vector_var_c", "aom_hadamard_16x16_c"]

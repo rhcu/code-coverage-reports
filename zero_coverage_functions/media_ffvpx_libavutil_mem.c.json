@@ -1,0 +1,1 @@
+["av_dynarray_add", "av_calloc", "av_fast_mallocz", "av_max_alloc", "av_memdup", "fill32", "av_reallocp", "av_dynarray_add_nofree", "av_fast_realloc", "av_dynarray2_add", "fill24", "av_reallocp_array", "av_strndup", "fill16", "av_realloc_f", "av_memcpy_backptr"]

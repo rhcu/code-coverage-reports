@@ -1,0 +1,1 @@
+["\u0001?SendBlob@PresentationContentSessionInfo@dom@mozilla@@QEAA?AW4nsresult@@PEAVnsIDOMBlob@@@Z", "\u0001?SendBinaryMsg@PresentationContentSessionInfo@dom@mozilla@@QEAA?AW4nsresult@@AEBV?$nsTSubstring@D@@@Z", "_ZN7mozilla3dom30PresentationContentSessionInfo13SendBinaryMsgERK12nsTSubstringIcE", "_ZN7mozilla3dom30PresentationContentSessionInfo8SendBlobEP10nsIDOMBlob"]

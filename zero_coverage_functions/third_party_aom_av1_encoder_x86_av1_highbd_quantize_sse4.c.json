@@ -1,0 +1,1 @@
+["av1_highbd_quantize_fp_sse4_1", "get_accumulated_eob", "quantize_coeff_phase1", "quantize_coeff_phase2", "find_eob"]

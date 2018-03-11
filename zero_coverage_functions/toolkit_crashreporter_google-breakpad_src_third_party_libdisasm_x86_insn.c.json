@@ -1,0 +1,1 @@
+["x86_insn_is_tagged", "x86_untag_insn", "x86_get_raw_imm", "x86_set_insn_offset", "x86_tag_insn", "x86_set_insn_function", "x86_get_imm", "x86_insn_is_valid", "x86_get_branch_target", "x86_get_address", "x86_operand_size", "x86_get_rel_offset", "x86_set_insn_addr", "x86_set_insn_block"]

@@ -1,0 +1,1 @@
+["secmodCreateMutext", "secmodDestroyMutext", "secmodLockMutext", "pk11_setGlobalOptions", "secmodUnlockMutext", "pk11_getFinalizeModulesOption", "secmod_handleReload"]

@@ -1,0 +1,1 @@
+["afm_parser_next_key", "afm_parse_kern_data", "afm_stream_read_string", "afm_parser_init", "afm_stream_read_one", "afm_tokenize", "afm_parser_read_int", "afm_parser_skip_section", "afm_parser_done", "afm_compare_kern_pairs", "afm_stream_skip_spaces", "afm_parser_parse", "afm_parse_kern_pairs", "afm_parser_read_vals", "afm_parse_track_kern"]

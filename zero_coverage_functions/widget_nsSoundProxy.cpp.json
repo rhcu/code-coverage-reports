@@ -1,0 +1,1 @@
+["_ZN12nsSoundProxy15PlaySystemSoundERK12nsTSubstringIDsE", "\u0001?Play@nsSoundProxy@@UEAA?AW4nsresult@@PEAVnsIURL@@@Z", "\u0001?PlaySystemSound@nsSoundProxy@@UEAA?AW4nsresult@@AEBV?$nsTSubstring@_S@@@Z", "_ZN12nsSoundProxy4InitEv", "\u0001?Init@nsSoundProxy@@UEAA?AW4nsresult@@XZ", "_ZN12nsSoundProxy4PlayEP6nsIURL"]

@@ -1,0 +1,1 @@
+["gzputc", "gzclose_w", "gz_init", "gzwrite", "gzputs", "gzsetparams", "gz_comp", "gz_zero", "gzflush", "gzprintf"]

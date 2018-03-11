@@ -1,0 +1,1 @@
+["x86_cleanup", "x86_get_options", "x86_fp_reg", "x86_report_error", "x86_ip_reg", "x86_word_size", "x86_sp_reg", "x86_flag_reg", "x86_set_options", "x86_set_reporter", "x86_endian", "x86_op_size", "x86_addr_size", "x86_init", "x86_reg_from_id", "x86_max_insn_size"]

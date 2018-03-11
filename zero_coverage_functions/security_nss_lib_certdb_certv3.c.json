@@ -1,0 +1,1 @@
+["CERT_StartCertExtensions", "SetExts", "CERT_FindCertExtensionByOID", "CERT_FindNSStringExtension", "CERT_CheckCertUsage"]

@@ -1,0 +1,1 @@
+["ChaCha20Poly1305_DestroyContext", "Poly1305PadUpdate", "ChaCha20Xor", "ChaCha20Poly1305_Open", "ChaCha20Poly1305_Seal", "ChaCha20Poly1305_CreateContext", "Poly1305Do", "ChaCha20Poly1305_InitContext"]

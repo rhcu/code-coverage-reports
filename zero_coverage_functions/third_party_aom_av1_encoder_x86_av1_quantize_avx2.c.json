@@ -1,0 +1,1 @@
+["av1_quantize_fp_32x32_avx2", "read_coeff", "av1_quantize_fp_avx2", "quantize.isra.1", "quantize", "quantize_32x32.isra.2", "quantize_32x32", "init_one_qp.isra.0", "init_one_qp", "write_zero", "init_qp", "update_qp"]

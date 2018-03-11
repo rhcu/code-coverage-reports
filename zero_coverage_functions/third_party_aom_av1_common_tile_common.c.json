@@ -1,0 +1,1 @@
+["av1_disable_loopfilter_on_tile_boundary", "av1_get_tile_n_bits", "get_max_log2_tile_cols", "av1_tile_set_col", "get_tile_size", "av1_setup_across_tile_boundary_info", "get_min_log2_tile_cols", "av1_tile_init", "av1_setup_frame_boundary_info", "av1_tile_set_row"]

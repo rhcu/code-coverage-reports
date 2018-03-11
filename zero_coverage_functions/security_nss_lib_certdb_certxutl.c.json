@@ -1,0 +1,1 @@
+["CERT_EncodeAndAddBitStrExtension", "CERT_AddExtensionByOID", "CERT_EncodeAndAddExtension", "CERT_MergeExtensions", "CERT_GetExtenCriticality", "CERT_FinishExtensions", "PrepareBitStringForEncoding", "cert_HasCriticalExtension", "CERT_AddExtension", "cert_StartExtensions"]

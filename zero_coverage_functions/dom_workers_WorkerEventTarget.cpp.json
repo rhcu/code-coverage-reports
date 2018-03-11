@@ -1,0 +1,1 @@
+["\u0001?DispatchFromScript@WorkerEventTarget@dom@mozilla@@UEAA?AW4nsresult@@PEAVnsIRunnable@@I@Z", "\u0001?DelayedDispatch@WorkerEventTarget@dom@mozilla@@UEAA?AW4nsresult@@U?$already_AddRefed@VnsIRunnable@@@@I@Z", "_ZN7mozilla3dom17WorkerEventTarget15DelayedDispatchE16already_AddRefedI11nsIRunnableEj", "_ZN7mozilla3dom17WorkerEventTarget18DispatchFromScriptEP11nsIRunnablej"]

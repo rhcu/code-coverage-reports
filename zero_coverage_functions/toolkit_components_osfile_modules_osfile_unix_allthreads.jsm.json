@@ -1,0 +1,1 @@
+["get isSymLink", "toMsg", "closed", "get unixLastStatusChangeDate", "invalidArgument", "get lastAccessDate", "get lastModificationDate", "AbstractInfo", "get size", "AbstractEntry", "exists", "becauseNotEmpty", "get unixGroup", "get name", "get unixOwner", "get path", "get unixMode", "get isDir", "becauseAccessDenied", "noSuchFile"]

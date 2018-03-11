@@ -1,0 +1,1 @@
+["PR_FindNextCounterQname", "PR_GetCounterNameFromHandle", "PR_SetCounter", "PR_DestroyCounter", "PR_AddToCounter", "PR_FindNextCounterRname", "PR_DecrementCounter", "PR_GetCounter", "PR_CreateCounter", "PR_IncrementCounter", "PR_SubtractFromCounter", "PR_GetCounterHandleFromName"]

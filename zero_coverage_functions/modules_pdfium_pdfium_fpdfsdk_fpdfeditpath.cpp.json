@@ -1,0 +1,1 @@
+["FPDFPath_Close", "FPDFPath_BezierTo", "FPDFPath_LineTo", "FPDFPath_MoveTo", "FPDFPath_SetStrokeColor", "FPDFPath_SetDrawMode", "FPDFPath_SetStrokeWidth", "FPDFPath_SetFillColor", "FPDFPageObj_CreateNewPath", "FPDFPageObj_CreateNewRect"]

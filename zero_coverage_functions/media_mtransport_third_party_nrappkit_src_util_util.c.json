@@ -1,0 +1,1 @@
+["nr_errprintf_log2", "nr_fwrite_all", "nr_write_pid_file", "nr_drop_privileges", "nr_get_filename", "nr_read_data", "nr_errprintf_log", "nr_hex_ascii_dump", "nr_reg_uint8_fetch_and_check", "nr_reg_uint4_fetch_and_check", "strlcat"]

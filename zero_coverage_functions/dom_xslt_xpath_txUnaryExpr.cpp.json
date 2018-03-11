@@ -1,0 +1,1 @@
+["\u0001?getSubExprAt@UnaryExpr@@UEAAPEAVExpr@@I@Z", "_ZN9UnaryExpr13getReturnTypeEv", "_ZN9UnaryExpr12setSubExprAtEjP4Expr", "\u0001?getReturnType@UnaryExpr@@UEAAGXZ", "_ZN9UnaryExpr12getSubExprAtEj", "\u0001?toString@UnaryExpr@@UEAAXAEAV?$nsTSubstring@_S@@@Z", "_ZN9UnaryExpr8toStringER12nsTSubstringIDsE", "\u0001?setSubExprAt@UnaryExpr@@UEAAXIPEAVExpr@@@Z"]

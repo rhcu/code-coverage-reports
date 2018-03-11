@@ -1,0 +1,1 @@
+["BZ2_bsInitWrite", "bsFinishWrite", "BZ2_compressBlock", "bsPutUChar", "sendMTFValues", "makeMaps_e", "generateMTFValues", "bsW", "bsPutUInt32"]

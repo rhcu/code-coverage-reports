@@ -1,0 +1,1 @@
+["event.sendKey", "isPrimary", "isAuxiliary", "event.synthesizeMouse", "event.sendMouseEvent", "event.synthesizeQuerySelectedText", "event.sendChar", "expectEvent_", "event.isKeypressFiredKey", "event.synthesizeSelectionSet", "event.sendString", "event.synthesizeKeyExpectEvent", "event.synthesizeMouseAtCenter", "event.synthesizeMouseExpectEvent", "checkExpectedEvent_", "handler"]

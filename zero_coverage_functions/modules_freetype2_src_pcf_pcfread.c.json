@@ -1,0 +1,1 @@
+["pcf_read_TOC", "pcf_get_encodings", "pcf_get_metric", "pcf_interpret_style", "pcf_find_property", "pcf_load_font", "pcf_get_properties", "pcf_get_accel", "pcf_get_bitmaps", "pcf_has_table_type", "pcf_seek_to_table_type", "pcf_get_metrics"]

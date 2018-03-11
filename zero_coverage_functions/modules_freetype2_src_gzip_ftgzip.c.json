@@ -1,0 +1,1 @@
+["ft_gzip_alloc", "ft_gzip_file_done", "ft_gzip_file_init", "FT_Stream_OpenGzip", "ft_gzip_stream_io", "ft_gzip_stream_close", "ft_gzip_file_io", "ft_gzip_file_skip_output", "ft_gzip_file_reset", "ft_gzip_file_fill_output", "ft_gzip_file_fill_input", "FT_Gzip_Uncompress", "ft_gzip_check_header", "ft_gzip_free", "ft_gzip_get_uncompressed_size"]

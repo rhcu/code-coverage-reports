@@ -1,0 +1,1 @@
+["aom_fdct32x32_rd_sse2", "aom_fdct32x32_sse2", "aom_highbd_fdct32x32_sse2", "aom_fdct32x32_rows_c", "aom_highbd_fdct32x32_rd_sse2", "aom_fdct32x32_rd_rows_c"]

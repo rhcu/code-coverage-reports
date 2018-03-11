@@ -1,0 +1,1 @@
+["x86_simd_caps", "x87_get_control_word", "xgetbv", "x87_set_double_precision"]

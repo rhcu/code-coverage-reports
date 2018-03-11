@@ -1,0 +1,1 @@
+["FPDFPage_TransformAnnots", "FPDFPageObj_Transform", "FPDFPage_HasTransparency", "FPDFPageObj_HasTransparency", "FPDFPage_GetObject", "FPDFPage_New", "FPDFPage_GenerateContent", "FPDFPage_SetRotation", "FPDFPage_InsertObject", "FPDF_CreateNewDocument", "\u0001?IsPageObject@?A@@YA_NPEAVCPDF_Page@@@Z", "FPDFPage_GetRotation", "FPDFPage_Delete", "FPDFPage_CountObject"]

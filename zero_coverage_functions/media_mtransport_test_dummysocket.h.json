@@ -1,0 +1,1 @@
+["_ZN7mozilla11DummySocket6acceptEP18nr_transport_addr_PP10nr_socket_", "_ZN7mozilla11DummySocket6createEP18nr_transport_addr_", "_ZN7mozilla11DummySocket6listenEi", "_ZN7mozilla11DummySocket7getaddrEP18nr_transport_addr_", "_ZN7mozilla11DummySocket6sendtoEPKvmiP18nr_transport_addr_", "_ZN7mozilla11DummySocket8recvfromEPvmPmiP18nr_transport_addr_"]

@@ -1,0 +1,1 @@
+["aom_sad32x32_avx2", "aom_sad64x64_avx2", "aom_sad32x32_avg_avx2", "aom_sad32x16_avx2", "aom_sad32x64_avx2", "aom_sad64x64_avg_avx2", "aom_sad64x32_avx2", "aom_sad64x32_avg_avx2", "aom_sad32x16_avg_avx2", "aom_sad32x64_avg_avx2"]

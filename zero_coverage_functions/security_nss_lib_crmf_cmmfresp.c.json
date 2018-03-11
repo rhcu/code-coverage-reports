@@ -1,0 +1,1 @@
+["CMMF_CertifiedKeyPairGetCertificate", "CMMF_CreateCertRepContent", "cmmf_CertOrEncCertSetCertificate", "cmmf_ExtractCertsFromList", "CMMF_CreateCertResponse", "CMMF_CertResponseSetCertificate", "CMMF_CertResponseSetPKIStatusInfoStatus", "CMMF_CertRepContentSetCertResponses", "CMMF_CertRepContentSetCAPubs"]

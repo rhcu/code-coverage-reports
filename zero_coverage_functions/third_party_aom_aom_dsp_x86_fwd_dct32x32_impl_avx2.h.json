@@ -1,0 +1,1 @@
+["aom_fdct32x32_rd_avx2", "k_madd_epi32_avx2", "store_coeff", "k_packs_epi64_avx2", "aom_fdct32x32_avx2"]

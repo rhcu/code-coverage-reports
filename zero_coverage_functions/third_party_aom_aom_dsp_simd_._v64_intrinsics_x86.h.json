@@ -1,0 +1,1 @@
+["v64_zero", "v64_load_aligned", "v64_load_unaligned", "u32_store_aligned", "v64_store_aligned", "v64_high_u32", "v64_low_u32"]

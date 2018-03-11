@@ -1,0 +1,1 @@
+["SetCrlExts", "CERT_FindCRLExtension", "CERT_FindCRLExtensionByOID", "CERT_FindInvalidDateExten", "SetCrlEntryExts", "CERT_FindCRLEntryReasonExten", "CERT_StartCRLExtensions", "CERT_StartCRLEntryExtensions", "CERT_FindCRLNumberExten"]

@@ -1,0 +1,1 @@
+["MOZ_PNG_set_filter", "MOZ_PNG_set_flush", "MOZ_PNG_set_write_status_fn", "MOZ_PNG_write_flush", "MOZ_PNG_write_image", "MOZ_PNG_write_rows"]

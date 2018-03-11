@@ -1,0 +1,1 @@
+["cff_parse_integer", "cff_parser_init", "cff_parser_done", "cff_parse_vsindex", "cff_parse_font_bbox", "cff_parse_fixed_scaled", "cff_parse_private_dict", "cff_parse_blend", "cff_parse_num", "cff_parse_cid_ros", "cff_parse_multiple_master", "cff_parser_run", "cff_parse_maxstack", "cff_parse_font_matrix", "cff_parse_real", "cff_parse_fixed_dynamic", "cff_parse_fixed", "do_fixed"]

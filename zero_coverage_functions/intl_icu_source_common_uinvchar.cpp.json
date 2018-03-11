@@ -1,0 +1,1 @@
+["uprv_copyAscii_60", "uprv_copyEbcdic_60", "uprv_aestrncpy_60", "uprv_compareInvEbcdicAsAscii_60", "uprv_compareInvEbcdic_60", "uprv_ebcdicToLowercaseAscii_60", "uprv_isInvariantString_60", "uprv_asciiFromEbcdic_60", "uprv_ebcdicFromAscii_60", "uprv_eastrncpy_60"]

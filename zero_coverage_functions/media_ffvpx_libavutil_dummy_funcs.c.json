@@ -1,0 +1,1 @@
+["ff_float_dsp_init_arm", "ff_float_dsp_init_mips", "ff_float_dsp_init_aarch64", "av_hwframe_get_buffer", "ff_get_cpu_flags_arm", "ff_get_cpu_max_align_aarch64", "ff_get_cpu_flags_aarch64", "ff_get_cpu_flags_ppc", "ff_float_dsp_init_ppc", "ff_get_cpu_max_align_ppc", "ff_get_cpu_max_align_arm"]

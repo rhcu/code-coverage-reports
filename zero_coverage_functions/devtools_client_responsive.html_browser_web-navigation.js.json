@@ -1,0 +1,1 @@
+["get sessionHistory", "loadURIWithOptions", "reload", "goBack", "loadURI", "goForward", "set sessionHistory", "set currentURI", "stop", "_sendMessage", "setOriginAttributesBeforeLoading", "readInputStreamToString", "get document", "swapBrowser", "get _mm", "gotoIndex"]
