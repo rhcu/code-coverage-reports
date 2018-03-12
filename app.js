@@ -177,7 +177,7 @@ async function generate(dir='') {
       entryElem.appendChild(document.createTextNode(` - ${stats.funcs} functions`));
     }
     let p = document.createElement('p');
-    p.textContent = entry.size;
+    p.textContent = entry;
     entryElem.appendChild(p);
     output.appendChild(entryElem);
     output.appendChild(document.createElement('br'));
