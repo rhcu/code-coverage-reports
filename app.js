@@ -176,6 +176,9 @@ async function generate(dir='') {
       a.href = 'https://codecov.io/gh/marco-c/gecko-dev/src/master/' + dir + entry;
       entryElem.appendChild(document.createTextNode(` - ${stats.funcs} functions`));
     }
+    let p = document.createElement('p');
+    p.textContent = entry.size;
+    entryElem.appendChild(p);
     output.appendChild(entryElem);
     output.appendChild(document.createElement('br'));
   }
